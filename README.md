@@ -1,7 +1,10 @@
-## hey there.
+## hey there!, I'm beery-tomato!
 
-Im beery-tomato a upcoming vibe coder.
+I help out making random projects with my friends. I use AI to code cause... I'm too lazy.
 
-Im working with yaans-coat to bypass school filters.
+## Here's some stuff I do:
+- [PyServer](https://github.com/beery-tomato/PyServer) - A simple server setup for Ubuntu made in Python.
+- [blackwaves](https://github.com/yaanscoat/blackwaves) - A web-proxy made with Scramjet. (co-owner!)
 
-I vibe code things like proxies and AI jailbreaking, I also work with small devs like mentioned yaans-coat and idevs
+## My Developer Tools/APIs
+- nothin here yet...
